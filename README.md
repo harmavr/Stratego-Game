@@ -1,4 +1,3 @@
-# Stratego Ice vs Fire
+# Stratego Game
 
-Implemented the game Stratego Ice vs Fire using the MVC (Model-View-Controller) architectural pattern. 
-Used language: Java
+Implemented a variation of the classic game Stratego using the Java language
